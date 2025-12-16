@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "銀河の雫",
+  "base_artist": "TROIS ANGES",
+  "createdAt": "2025-12-16T12:51:45.540472Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "銀河の雫",
+      "artist": "TROISANGES",
+      "has_synced": false,
+      "path": "select/pl_01_銀河の雫_TROISANGES.txt"
+    }
+  ]
+}
